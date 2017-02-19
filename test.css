@@ -1,0 +1,24 @@
+
+	#meetingsArea{
+		position: relative;
+	    width: 600px;
+	    margin: 0 auto;
+	    border: 1px solid #b1a4a4;
+	    border-top-width: 10px;
+	}
+
+	#meetingAxisPosition{
+		position: absolute;
+	}
+
+	.meeting{
+		border: 1px solid #000;
+		text-align: center;
+		position: absolute;
+		background-color: azure;
+		vertical-align: middle;
+	    font-weight: bold;
+	    text-transform: capitalize;
+	    font-family: sans-serif;
+	    color: green;    
+	}
