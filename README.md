@@ -30,8 +30,6 @@ Build a webpage that uses the function from PART 1, to show the following meetin
 			 {"id":17,"start":145,"end":190},
 			 {"id":19,"start":465,"end":645}
  
- 
-See attached image for reference output.
 
 Important Instructions
 1) Keep your solution free of any framework or library usage unless absolutely needed.
