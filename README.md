@@ -1,3 +1,5 @@
+<a href="test.html">Demo Page</a>
+
 PART 1
  
 Create a function to calculate the positioning and width of meetings on a calendar for a single day (9 AM to 9 PM). Assume each minute on the calendar to have a height of 2px(Total height = 1440px). The width should be 600px. 
