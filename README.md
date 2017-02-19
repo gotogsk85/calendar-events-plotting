@@ -1,5 +1,8 @@
 
-<a href="/gotogsk85/calendar-events-plotting/blob/master/test.html">Demo Page</a>
+
+<p>
+<a href="https://gotogsk85.github.io/calendar-events-plotting/test.html">Demo Page</a>
+</p>
 
 PART 1
  
